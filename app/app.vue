@@ -1,7 +1,7 @@
 <script setup lang="ts">
 useHead({
   htmlAttrs: {
-    class: "h-full bg-stone-950 text-stone-100 m-10",
+    class: "antialiased h-full bg-stone-950 text-stone-100 m-10",
   },
   bodyAttrs: {
     class: "h-full",
