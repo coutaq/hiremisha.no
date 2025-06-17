@@ -44,5 +44,5 @@ jobs:
           key: ${{ secrets.SERVER_SSH_KEY }}
           script: |
             cd ~/compose
-            docker-compose pull hiremisha         
-            docker-compose up -d hiremisha
+            docker compose pull hiremisha         
+            docker compose up -d hiremisha
