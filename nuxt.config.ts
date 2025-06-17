@@ -15,13 +15,22 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  image: {
+    provider: "ipx",
+  },
+  font: {
+    families: {
+      inter: true, // auto-loads Inter from Google Fonts
+    },
+  },
   modules: [
     "@nuxt/eslint",
     "@nuxt/fonts",
     "@nuxt/icon",
-    "@nuxt/image",
     "@nuxt/test-utils",
     "@nuxt/ui",
     "@nuxt/scripts",
+    "@nuxt/image-edge",
+    "@vueuse/nuxt",
   ],
 });
