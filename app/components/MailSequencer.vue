@@ -10,7 +10,7 @@ const images = [
   <div class="mx-auto p-6">
     <section class="max-w-7xl mx-auto">
         <h1 class="text-3xl font-bold mb-6 text-primary">Mail Sequencer — Email Automation Platform</h1>
-        <img
+        <NuxtImg
           src="../../images/sequencer1.jpg"
           alt="Mail Sequencer Dashboard"
           class="w-full rounded-lg mb-6 shadow-md"

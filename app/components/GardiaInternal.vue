@@ -19,8 +19,8 @@ const images = [
       Gardia AS — Internal Management System
     </h1>
 
-    <img
-      src="https://via.placeholder.com/800x400?text=Security+System+Dashboard"
+    <NuxtImg
+      src="../../images/gardia1.jpg"
       alt="Security System Dashboard"
       class="w-full rounded-lg mb-6 shadow-md"
     />

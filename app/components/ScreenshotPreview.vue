@@ -43,7 +43,7 @@ const nextImage =() => {
          
         </div>
         <div class="flex-1 flex justify-center items-center bg-zinc-800">
-          <img
+          <NuxtImg
             :src="images[selectedIndex]"
             alt="Enlarged image"
             class="max-w-[80vw] object-contain"
