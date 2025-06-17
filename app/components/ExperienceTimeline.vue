@@ -5,9 +5,9 @@
   >
     <h2
       id="experience-title"
-      class="text-3xl font-bold mb-8 text-zinc-100 border-b border-zinc-700 pb-2"
+      class="text-3xl font-bold mb-8 text-zinc-100 border-b border-zinc-700 pb-2 lg:w-3xl"
     >
-      Experience
+      Work Experience
     </h2>
 
     <div class="flex flex-col gap-8 border-l-4 pl-6 border-zinc-700 u-border-primary">

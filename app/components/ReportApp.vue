@@ -13,7 +13,7 @@ const images = [
     <h1 class="text-3xl font-bold mb-6 text-primary">Reporting PWA</h1>
 
     <img
-      src="../../images/report1"
+      src="../../images/report1.jpg"
       alt="PWA Reports"
       class="w-full rounded-lg mb-6 shadow-md"
     />
