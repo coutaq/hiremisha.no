@@ -1,1 +1,4 @@
 @import "tailwindcss";
+#__nuxt {
+  @apply h-full;
+}
