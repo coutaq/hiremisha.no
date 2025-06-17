@@ -7,7 +7,7 @@ const reportOpen = ref(false)
 
 <template>
   <section class="flex flex-col gap-4 col-span-full select-none mt-20">
-    <h1 class="text-3xl">Projects I've worked on</h1>
+    <h1 class="text-3xl">Some of the projects I've worked on</h1>
     <section class="flex flex-wrap gap-4 w-full">
       <UModal  title="Mail Sequencer" v-model:open="mailOpen" fullscreen >
           <div v-motion-pop-visible-once

@@ -13,4 +13,5 @@ definePageMeta({
   <TitleSection />
   <ExperienceTimeline></ExperienceTimeline>
 <ProjectList></ProjectList>
+<Footer></Footer>
 </template>

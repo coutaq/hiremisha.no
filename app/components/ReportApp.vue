@@ -12,7 +12,7 @@ const images = [
   <div class="max-w-4xl mx-auto p-6 bg-zinc-900">
     <h1 class="text-3xl font-bold mb-6 text-primary">Reporting PWA</h1>
 
-    <img
+    <NuxtImg
       src="../../images/report1.jpg"
       alt="PWA Reports"
       class="w-full rounded-lg mb-6 shadow-md"
